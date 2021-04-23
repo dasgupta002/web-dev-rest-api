@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap');
+
+.decoration-wrapper {
+  margin-top: -50px;
+  padding-top: 50px;
+  background-color: #eee;
+  height: 720px;
+  width: 100%;
+}
+.app-wrapper {
+  font-family: 'Original Surfer', cursive; 
+}

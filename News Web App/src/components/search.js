@@ -5,7 +5,7 @@ import { Container, Row, Col, Form, Button } from 'react-bootstrap'
 export default function SearchFragment() {
 
     const [search, setSearch] = useState("");
-    const [pass, setPass] = useState("");
+    const [pass, setPass] = useState("economy");
 
     const handleChanges = (event) => {
       event.preventDefault(); 
